@@ -5,7 +5,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Techmech02&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 
-### AI / ML Developer • Building intelligent systems for education & beyond 🚀
+### Hi, I'm Sagar Bhati 👋 — AI / ML Developer
+#### Building intelligent systems for education & beyond 🚀
 
 <p>
 <a href="https://github.com/Techmech02?tab=repositories"><img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-6a11cb?style=for-the-badge" alt="focus"/></a>
@@ -21,6 +22,7 @@
 
 ## 👨‍💻 About Me
 
+- 👋 I'm **Sagar Bhati** — an AI/ML developer who loves shipping models that solve real problems.
 - 🧠 I build **AI/ML systems** — from Bloom's-taxonomy text classifiers to **adaptive assessment engines** that personalize learning.
 - 🔭 Currently working on **PARAKH**, an AI-driven adaptive testing platform (NLP + adaptive item selection).
 - 🌱 Always learning: **Deep Learning, Transformers, MLOps**, and full-stack ML deployment.
@@ -28,7 +30,7 @@
 - 💬 Ask me about **Python, scikit-learn, PyTorch, NLP, and Flask APIs**.
 - ⚡ Fun fact: I think the best model is the *simplest one that ships*.
 
-<!-- Personalize: add your name, school/role, and location here. -->
+<!-- Personalize: add your school/role and location here if you'd like. -->
 
 ---
 
@@ -127,8 +129,6 @@ DSA & problem-solving practice across **C, C++, Java, Python** and LeetCode.
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techmech02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Techmech02&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Techmech02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techmech02&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
 
