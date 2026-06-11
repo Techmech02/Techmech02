@@ -123,7 +123,7 @@ DSA & problem-solving practice across **C, C++, Java, Python** and LeetCode.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Techmech02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Techmech02&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techmech02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Techmech02&theme=tokyonight&hide_border=true" alt="streak" />
