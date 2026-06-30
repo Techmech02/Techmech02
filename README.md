@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Quick Overview
+## Quick Overview
 
 **Experience Level:** Fresher | **Background:** AI/ML & Deep Learning Foundation | **Open to:** AI/ML Internships • AI Agents roles | Full-time internships  
 **Key Focus:** AI Agents • LLM Systems • Deep Learning • NLP • Autonomous Systems  
